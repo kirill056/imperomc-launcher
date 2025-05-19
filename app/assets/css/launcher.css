@@ -970,7 +970,7 @@ body, button {
 }
 
 #loginOptionsContent {
-    border-radius: 3px;
+    border-radius: 10px;
     position: relative;
     top: -5%;
 }
@@ -994,7 +994,7 @@ body, button {
 .loginOptionButton {
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     height: 50px;
     width: 100%;
     text-align: left;
@@ -3022,6 +3022,10 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
+    border: #fff 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Social media icon content container. */

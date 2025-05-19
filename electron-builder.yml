@@ -1,5 +1,5 @@
 appId: 'imperomc-launcher'
-productName: 'imperomc Launcher'
+productName: 'IMPEROMC Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 IMPEROMC'
@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'imperomc'
-  vendor: 'imperomc'
+  maintainer: 'IMPEROMC'
+  vendor: 'IMPEROMC'
   synopsis: 'Modded Minecraft Launcher'
   description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
   category: 'Game'
