@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "IMPEROMC Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://launcher.imperomc.eu"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://dsc.imperomc.eu"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU IMPEROMC"
+welcomeDescription = "Sei a pochi passi da IMPEROMC"
+welcomeDescCTA = "Copyright © 2025 IMPEROMC"
