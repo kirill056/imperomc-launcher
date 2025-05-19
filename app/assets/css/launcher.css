@@ -1232,7 +1232,7 @@ body, button {
 .settingsSelServContainer {
     background: rgba(0, 0, 0, 0.25);
     width: 75%;
-    border-radius: 3px;
+    border-radius: 10px;
     display: flex;
     justify-content: space-between;
     margin: 15px 0px;
@@ -1260,7 +1260,7 @@ body, button {
     color: rgb(255, 255, 255);
     background: none;
     font-size: 12px;
-    border-radius: 3px;
+    border-radius: 10px;
     font-family: 'Avenir Medium';
     transition: 0.25s ease;
     cursor: pointer;
@@ -1291,7 +1291,7 @@ body, button {
 #settingsContainer input[type=text] {
     color: white;
     background: rgba(0, 0, 0, 0.25);
-    border-radius: 3px;
+    border-radius: 10px;
     border: 1px solid rgba(126, 126, 126, 0.57);
     font-family: 'Avenir Book';
     transition: 0.25s ease;
@@ -1387,7 +1387,7 @@ input:checked + .toggleSwitchSlider:before {
     height: 5px;
     margin: 15px 0px;
     background: grey;
-    border-radius: 3px;
+    border-radius: 10px;
     position: relative;
 }
 .rangeSliderBar {
@@ -1404,7 +1404,7 @@ input:checked + .toggleSwitchSlider:before {
     width: 7px;
     height: 20px;
     background: white;
-    border-radius: 3px;
+    border-radius: 10px;
     left: 50%;
     cursor: ew-resize;
 }
@@ -1552,7 +1552,7 @@ input:checked + .toggleSwitchSlider:before {
 .settingsAuthAccount {
     display: flex;
     background: rgba(0, 0, 0, 0.25);
-    border-radius: 3px;
+    border-radius: 10px;
     border: 1px solid rgba(126, 126, 126, 0.57);
 }
 
@@ -1639,7 +1639,7 @@ input:checked + .toggleSwitchSlider:before {
     color: rgb(241, 55, 55);
     background: none;
     font-size: 12px;
-    border-radius: 3px;
+    border-radius: 10px;
     font-family: 'Avenir Medium';
     transition: 0.25s ease;
     cursor: pointer;
@@ -1716,7 +1716,7 @@ input:checked + .toggleSwitchSlider:before {
 #settingsDropinModsContent {
     font-size: 12px;
     background: rgba(0, 0, 0, 0.25);
-    border-radius: 3px;
+    border-radius: 10px;
     color: white;
 }
 
@@ -1804,7 +1804,7 @@ input:checked + .toggleSwitchSlider:before {
 #settingsDropinFileSystemButton {
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     height: 50px;
     width: 100%;
     text-align: left;
@@ -1866,7 +1866,7 @@ input:checked + .toggleSwitchSlider:before {
 #settingsShaderpackButton {
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     cursor: pointer;
     outline: none;
     transition: 0.25s ease;
@@ -1879,6 +1879,7 @@ input:checked + .toggleSwitchSlider:before {
 #settingsShaderpackButton[drag] {
     background: rgba(54, 54, 54, 0.25);
     text-shadow: 0px 0px 20px white;
+    border-radius: 10px;
 }
 
 /* Main select container. */
@@ -1889,7 +1890,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Div which displays the selected option. */
 .settingsSelectSelected {
-    border-radius: 3px;
+    border-radius: 10px;
     border-width: 1px;
     font-size: 14px;
     padding: 6px 16px;
@@ -2137,7 +2138,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -2237,7 +2238,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -2283,7 +2284,7 @@ input:checked + .toggleSwitchSlider:before {
     font-size: 85%;
     background-color: rgba(255, 255, 255, 0.25);
     color: white;
-    border-radius: 3px;
+    border-radius: 10px;
     font-family: 'Avenir Book';
 }
 .settingsChangelogText li+li {
@@ -2302,7 +2303,7 @@ input:checked + .toggleSwitchSlider:before {
     padding: 0.1em 0.4em;
     font-size: 86%;
     background-color: white;
-    border-radius: 3px;
+    border-radius: 10px;
     color: black;
     font-weight: bold;
 }
@@ -2339,7 +2340,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -3022,6 +3023,7 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
+    border-radius: 10px;
     border: #fff 1px solid;
     display: flex;
     align-items: center;
@@ -3705,7 +3707,7 @@ input:checked + .toggleSwitchSlider:before {
 .accountListing {
     color: white;
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 10px;
     padding: 5px 45px;
     width: 250px;
     display: flex;
@@ -3754,6 +3756,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
+    border-radius: 10px 0px 0px 10px;
 }
 
 /* Content container for the server listing's details. */
