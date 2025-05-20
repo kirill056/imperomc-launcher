@@ -1,13 +1,13 @@
 {
   "name": "imperomc-launcher",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "productName": "IMPEROMC Launcher",
   "description": "",
   "author": "kill.032_",
   "license": "ISC",
   "homepage": "https://launcher.imperomc.eu",
   "bugs": {
-    "url": "https://dsc.imperomc.eu"
+    "url": "https://discord.imperomc.eu"
   },
   "private": true,
   "main": "index.js",
