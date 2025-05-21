@@ -180,7 +180,7 @@ javaDownloadPrepare = "Preparazione del download di Java.."
 javaDownloadFailureTitle = "Errore durante il download di Java"
 javaDownloadFailureText = "Per maggiori dettagli, vedere la console (CTRL + Maiusc + i)."
 javaRequired = "Java è richiesto<br>per lanciare"
-javaRequiredMessage = 'Un installazione x64 valida di Java {major} è necessario per il lancio.<br><br>Si prega di fare riferimento al nostro <a href="https://launcher.imperomc.eu">Guida alla gestione Java</a> per istruzioni su come installare manualmente Java.'
+javaRequiredMessage = "Un installazione x64 valida di Java {major} è necessario per il lancio.<br><br>Si prega di fare riferimento al nostro <a href=\"https://nexuxnova.it\">Guida alla gestione Java</a> per istruzioni su come installare manualmente Java."
 javaRequiredDismiss = "Capisco"
 javaRequiredCancel = "Torna Indietro"
 
@@ -203,7 +203,7 @@ downloadingFiles = "Download di file.."
 errorDuringFileDownloadTitle = "Errore durante il download del file"
 preparingToLaunch = "Preparazione al lancio.."
 launchingGame = "Lancio del gioco.."
-launchWrapperNotDownloaded = "Il file principale, LaunchWrapper, non è stato scaricato correttamente. Di conseguenza, il gioco non può essere avviato.<br><br>Per risolvere il problema, disattiva temporaneamente il software antivirus e riavvia il gioco.<br><br>Se hai tempo, <a href=\"https://discord.imperomc.eu">segnala un problema</a> e facci sapere quale software antivirus utilizzi. Lo contatteremo e cercheremo di risolvere il problema."
+launchWrapperNotDownloaded = "Il file principale, LaunchWrapper, non è stato scaricato correttamente. Di conseguenza, il gioco non può essere avviato.<br><br>Per risolvere il problema, disattiva temporaneamente il software antivirus e riavvia il gioco.<br><br>Se hai tempo, <a href=\"https://discord.nexuxnova.it">segnala un problema</a> e facci sapere quale software antivirus utilizzi. Lo contatteremo e cercheremo di risolvere il problema."
 doneEnjoyServer = "Fatto. Buon divertimento!"
 checkConsoleForDetails = "Per maggiori dettagli, consultare la console (CTRL + Maiusc + i)."
 
@@ -212,7 +212,7 @@ checking = "Controllo delle notizie"
 
 [js.landing.discord]
 loading = "Caricamento del gioco.."
-joining = "Salpando per IMPEROMC!"
+joining = "Salpando per DreamClient!"
 joined = "Alla scoperta del Regno!"
 
 [js.overlay]
