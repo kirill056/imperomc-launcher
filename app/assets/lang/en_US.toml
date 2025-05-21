@@ -180,7 +180,7 @@ javaDownloadPrepare = "Preparazione del download di Java.."
 javaDownloadFailureTitle = "Errore durante il download di Java"
 javaDownloadFailureText = "Per maggiori dettagli, vedere la console (CTRL + Maiusc + i)."
 javaRequired = "Java è richiesto<br>per lanciare"
-javaRequiredMessage = 'Un installazione x64 valida di Java {major} è necessario per il lancio.<br><br>Si prega di fare riferimento al nostro <a href="https:launcher.imperomc.eu">Guida alla gestione Java</a> per istruzioni su come installare manualmente Java.'
+javaRequiredMessage = 'Un installazione x64 valida di Java {major} è necessario per il lancio.<br><br>Si prega di fare riferimento al nostro <a href="https://launcher.imperomc.eu">Guida alla gestione Java</a> per istruzioni su come installare manualmente Java.'
 javaRequiredDismiss = "Capisco"
 javaRequiredCancel = "Torna Indietro"
 
