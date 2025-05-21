@@ -1,8 +1,8 @@
-appId: 'imperomc-launcher'
-productName: 'IMPEROMC Launcher'
+appId: 'dreamclient-launcher'
+productName: 'DreamClient Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2025 IMPEROMC'
+copyright: 'Copyright © 2025 DreamClient'
 
 asar: true
 compression: 'maximum'
@@ -39,8 +39,8 @@ mac:
 # Linux Configuration
 linux: 
   target: 'AppImage'
-  maintainer: 'IMPEROMC'
-  vendor: 'IMPEROMC'
+  maintainer: 'DreamClient'
+  vendor: 'DreamClient'
   synopsis: 'Modded Minecraft Launcher'
   description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
   category: 'Game'
